@@ -7,9 +7,9 @@ Welcome to my Quality Assurance (QA) portfolio repository for the **ShopMee E-Co
 ## Quick Links to Project Artifacts
 To facilitate a seamless review of my testing deliverables without requiring any external file downloads, please use the direct Markdown links below:
 
-* **Business Requirements & Traceability:** [(ShopMee E-Commerce Platform Project](ShopMee E-Commerce Platform Project/Document/Shopmee_brd.md)
-* **Test Case Repository:** [ShopMee E-Commerce Platform Project/Testcase/shopmee_testcases.md]
-* **Defect Tracking & Logging:** [ShopMee E-Commerce Platform Project/Bugs/Shopmee_bug_reports-md]
+* **Business Requirements & Traceability:** [ShopMee E-Commerce Platform Project/Document/Shopmee_brd.md](ShopMee%20E-Commerce%20Platform%20Project/Document/Shopmee_brd.md)
+* **Test Case Repository:** [ShopMe E-Commerce Platform Project/Testcase/shopmee_testcases.md](ShopMe%20E-Commerce%20Platform%20Project/Testcase/shopmee_testcases.md)
+* **Defect Tracking & Logging:** [ShopMee E-Commerce Platform Project/Bugs/Shopmee_bug_reports.md](ShopMee%20E-Commerce%20Platform%20Project/Bugs/Shopmee_bug_reports.md)
 
 ---
 
